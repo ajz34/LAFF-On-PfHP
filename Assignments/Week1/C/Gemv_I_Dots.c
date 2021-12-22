@@ -8,5 +8,5 @@ void MyGemv( int m, int n, double *A, int ldA,
            double *x, int incx, double *y, int incy )
 {
   for ( int i=0; i<m; i++ )
-    Dots(  ,     ,     ,     ,       ,      );
+    Dots(n, x, incx, &alpha(i,0), ldA, &psi(i));
 }
