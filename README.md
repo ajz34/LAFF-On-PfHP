@@ -1,3 +1,12 @@
+# ... And another solution to LAFF-On-PfHP
+
+This is ajz34's solution on his Intel i5-7300HQ to this material.
+This does not reflect the correct answer, or original code.
+Refer to https://github.com/ULAFF/LAFF-On-PfHP for official repo.
+
+It should be noted that all solutions could be obtained from course website.
+Really kind of LAFF staffs ;-)
+
 # LAFF-On-PfHP
 Repository for "LAFF-On Programming for High Performance"
 
